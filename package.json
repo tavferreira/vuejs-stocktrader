@@ -23,6 +23,6 @@
     "file-loader": "0.11.2",
     "vue-loader": "9.9.5",
     "webpack": "3.12.0",
-    "webpack-dev-server": "3.11.0"
+    "webpack-dev-server": "3.11.2"
   }
 }
